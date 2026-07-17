@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+demo-20250901-2y.sql.gz
+test.js
 # Distribution / packaging
 .Python
 build/

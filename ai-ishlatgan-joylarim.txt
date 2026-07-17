@@ -1,0 +1,12 @@
+
+1. masofani hisoblashda o'zim bunday holatga duch kelmaganim uchun "haversine" degan
+ matematik funksiyani ko'rdim langitude va latitude orqali aniqlashni va shu qismiga
+ ai chat dan yordam oldim.
+2. postgresql "MATERIALIZED VIEW" ishlatib ko'rmagan edim shuning uchun chat orqali migrations
+ datani tayyorlab olish uchun ai dan yordam oldim. 
+ - /src/apps/passengers/migrations/0004_mileage_materialized_views.py
+3. test.js faylda yani siz aytgan p95 - 500ms degan tekshiruvni avval sinab ko'rmagan edim
+ rosti shuning uchun u qismiga ham googlega yozib k6 degan kutubxonani ko'rdim va uni testlash
+ uchun aidan test.js faylni yozdirdim o'lchash 
+ uchun tezlikni.
+ 
