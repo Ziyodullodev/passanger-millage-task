@@ -1,0 +1,67 @@
+{
+    "filters_applied": {
+        "from_date": "2004-01-01",
+        "to_date": "2030-12-31",
+        "tier": "Bronze",
+        "min_flights": 10,
+        "min_spent": 10,
+        "sort": "distance_asc"
+    },
+    "pagination": {
+        "page": 5,
+        "page_size": 10,
+        "total_count": 44,
+        "total_pages": 5
+    },
+    "summary": {
+        "total_passengers": 44,
+        "total_revenue": 1563800,
+        "total_distance_km": 199101.3
+    },
+    "results": [
+        {
+            "passenger_id": "CN 5228882930825",
+            "passenger_name": "Jun Li",
+            "valid_flights": 10,
+            "total_distance_km": 4931.16,
+            "total_spent": 33350,
+            "avg_segment_price": 3335,
+            "max_segment_price": 6250,
+            "min_segment_price": 1750,
+            "tier": "Bronze"
+        },
+        {
+            "passenger_id": "CN 2485537759027",
+            "passenger_name": "Zhimin Fan",
+            "valid_flights": 11,
+            "total_distance_km": 4944.4,
+            "total_spent": 41100,
+            "avg_segment_price": 3736.36,
+            "max_segment_price": 7500,
+            "min_segment_price": 2250,
+            "tier": "Bronze"
+        },
+        {
+            "passenger_id": "GB 9781303560555",
+            "passenger_name": "Janet Clark",
+            "valid_flights": 10,
+            "total_distance_km": 4970.08,
+            "total_spent": 38400,
+            "avg_segment_price": 3840,
+            "max_segment_price": 7150,
+            "min_segment_price": 2500,
+            "tier": "Bronze"
+        },
+        {
+            "passenger_id": "GB 6968400630949",
+            "passenger_name": "Leslie Muir",
+            "valid_flights": 11,
+            "total_distance_km": 4989.91,
+            "total_spent": 34000,
+            "avg_segment_price": 3090.91,
+            "max_segment_price": 5000,
+            "min_segment_price": 2500,
+            "tier": "Bronze"
+        }
+    ]
+}

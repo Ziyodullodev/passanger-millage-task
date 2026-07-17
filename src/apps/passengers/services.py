@@ -27,8 +27,6 @@ def getting_data_and_set_cache(from_date, to_date):
         )
         data1, data2 = bounds["min_date"], bounds["max_date"]
         result = (bounds["min_date"], bounds["max_date"])
-        print(result)
-        print("cachega saqlandi.")
         set_cache_data("passengers:milaege:date_range", result, 3600)
     else:
         data1, data2 = cached
